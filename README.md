@@ -8,4 +8,3 @@ printf("Hello World")
 - Step 1: Download the zip file or use git clone
 
 first commit
-second commit
