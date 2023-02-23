@@ -10,6 +10,4 @@ printf("Hello World")
 first commit
 
 
-
 branch commit1
-branch commit2
